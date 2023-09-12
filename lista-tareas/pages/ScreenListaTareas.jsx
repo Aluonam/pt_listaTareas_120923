@@ -1,10 +1,15 @@
+import InputBoton from '@/components/InputBoton'
 import React from 'react'
 
 const ScreenListaTareas = () => {
+
+
+
+
+
   return (
     <>
-    <div>ScreenListaTareas</div>
-    <div>input + boton añadir</div>
+    <InputBoton></InputBoton>
     <div>Tareas agregadas con boton eliminar</div>
     </>
   )
